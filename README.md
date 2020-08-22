@@ -1,4 +1,4 @@
-# What can NYC's Citi Bike data tell us about opening Citi Bike's in Des Moines, Iowa?
+# What can NYC's Citi Bike data tell us about opening Citi Bikes in Des Moines, Iowa?
 
 ## NYC Citi Bike Analysis
 In New York City, Citi Bike collected data from all rides during the month of August. It found that the total number of rides in August was 2,344,224 with the majority of those riders as subsription-based customers. 
